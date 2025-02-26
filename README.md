@@ -28,7 +28,7 @@ Results and Conclusions
 We achieved impressive results in identifying the disease at its early stages. Detailed findings can be reviewed in the attached research files.
 
 Installation and Usage
-The models folder contains all the models that perform the photo review.
+The output_models folder contains all the models that perform the photo review.
 
 If you intend to use this information for research purposes, please contact us at:
 
